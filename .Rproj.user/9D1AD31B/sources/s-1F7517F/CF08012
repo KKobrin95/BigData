@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1583395231233.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "313855071",
+    "id" : "CF08012",
+    "lastKnownWriteTime" : 1583395200,
+    "last_content_update" : 1583395200,
+    "path" : "~/Documents/02 GitHub/BigData/materials/sourcecode/03_programming_data.R",
+    "project_path" : "materials/sourcecode/03_programming_data.R",
+    "properties" : {
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
